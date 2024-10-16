@@ -18,7 +18,7 @@ This Rust program is a CLI tool designed to scan a system for SUID binaries that
 1.  Clone the repository:
 
     ```sh
-    git clone https://github.com/your-repo/suidchk.git
+    git clone https://github.com/d4rk4r75/suidchk.git
     ```
 
 2.  Build the program:
